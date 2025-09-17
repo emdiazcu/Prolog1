@@ -21,14 +21,14 @@
 
 ---
 <div>
-
+<div align="justify">
 
 ## Acertijo 1
 
 ```
 Cuatro personas necesitan cruzar un puente de noche con una sola linterna. El puente es frágil y solo puede soportar a dos personas a la vez. Cada persona tarda diferentes tiempos en cruzar (1, 2, 5 y 10 minutos). Cuando dos personas cruzan, lo hacen al ritmo del más lento ¿Cómo pueden cruzar el puente en 17 minutos?
 ```
-
+<div>
 
 ### Solución:
 1.   1 y 2 cruzan → 2 min
