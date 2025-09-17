@@ -1,0 +1,5 @@
+(defun saluda(nombre)
+    (unless (string= nombre " ")
+        (format t "Hola, ~a!~&" nombre)
+    )
+)
